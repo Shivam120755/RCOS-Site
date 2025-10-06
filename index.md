@@ -9,3 +9,6 @@
 </html>
 
 Check out my [About Page](/about/). 
+
+
+![A descriptive alt text for the image](/assets/download.jpg)
